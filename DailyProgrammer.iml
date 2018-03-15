@@ -9,5 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="src" level="project" />
     <orderEntry type="module" module-name="Helpers" />
+    <orderEntry type="module" module-name="NatureInspiredAlgorithms" />
   </component>
 </module>
