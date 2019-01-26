@@ -1,8 +1,8 @@
 package challenge346.easy;
 
+import lsm.datastructures.permutation.Permutations;
+import lsm.datastructures.time.Time;
 import lsm.helpers.IO.write.text.console.Note;
-import lsm.helpers.Permutations;
-import lsm.helpers.Time;
 
 import java.util.Arrays;
 import java.util.HashMap;
